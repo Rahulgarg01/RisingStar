@@ -1,0 +1,79 @@
+.main-page{
+    height: 1400px;
+    width: 100%;
+    /* background-image: url("background.jpg");
+    background-size: 100% 100% ; */
+    /* position: absolute; */
+   }
+ .back-image{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+ }  
+ .diamond{
+    margin-top:10%;
+    margin-left:20%;
+    position: absolute;
+    z-index: 0;
+    height: 900px;
+    width: 900px;
+    transform: rotate(45deg);
+ }
+ h1{
+   margin-top:15%;
+    margin-left:16%;
+    position: absolute;
+    z-index: 1;
+    font-size: 9rem;
+    font-family: "Libre Baskerville" ;
+    color: white;
+ }
+ .small-head{
+    margin-top:23%;
+    margin-left:16%;
+    margin-right: 35%;
+    position: absolute;
+    z-index: 1;
+    font-family:"Darker Grotesque";
+    font-size: 6rem;
+    color: white;
+ }
+ .small-img{
+   margin: 6.2% auto 40px 220px;
+   width: 700px;
+   height:500px;
+ }
+ .image-text{
+   margin: auto auto auto 220px;
+   font-size: 4rem;
+   width: 700px;
+   display: inline-block;
+ }
+ .small2{
+   margin: 0px auto 200px 500px;
+   padding-top: 0px;
+ }
+ .image2-text{
+   margin: auto auto auto 220px;
+   font-size: 4rem;
+   width: 700px;
+   display: inline-block;
+ }
+ .contact{
+  margin-left: 1600px;
+  margin-right: 450px;
+  margin-top: 200px;
+ }
+ .contact-head{
+  margin-top: 280px;
+  font-size: 9rem;
+ }
+ .contact-info{
+  margin-top: 60px;
+  font-size: 4rem;
+ }
+ .message{
+  margin-top: 80px;
+  font-size: 3.5rem;
+ }
