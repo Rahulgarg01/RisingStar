@@ -16,8 +16,8 @@
     margin-left:20%;
     position: absolute;
     z-index: 0;
-    height: 900px;
-    width: 900px;
+    height: 450px;
+    width: 450px;
     transform: rotate(45deg);
  }
  h1{
@@ -25,7 +25,7 @@
     margin-left:16%;
     position: absolute;
     z-index: 1;
-    font-size: 9rem;
+    font-size: 4.5rem;
     font-family: "Libre Baskerville" ;
     color: white;
  }
@@ -36,44 +36,44 @@
     position: absolute;
     z-index: 1;
     font-family:"Darker Grotesque";
-    font-size: 6rem;
+    font-size: 3rem;
     color: white;
  }
  .small-img{
-   margin: 6.2% auto 40px 220px;
-   width: 700px;
-   height:500px;
+   margin: 6.2% auto 20px 110px;
+   width: 350px;
+   height:250px;
  }
  .image-text{
-   margin: auto auto auto 220px;
-   font-size: 4rem;
-   width: 700px;
+   margin: auto auto auto 110px;
+   font-size: 2rem;
+   width: 350px;
    display: inline-block;
  }
  .small2{
-   margin: 0px auto 200px 500px;
+   margin: 0px auto 100px 250px;
    padding-top: 0px;
  }
  .image2-text{
-   margin: auto auto auto 220px;
-   font-size: 4rem;
-   width: 700px;
+   margin: auto auto auto 110px;
+   font-size: 2rem;
+   width: 350px;
    display: inline-block;
  }
  .contact{
-  margin-left: 1600px;
-  margin-right: 450px;
-  margin-top: 200px;
+  margin-left: 800px;
+  margin-right: 225px;
+  margin-top: 100px;
  }
  .contact-head{
-  margin-top: 280px;
-  font-size: 9rem;
+  margin-top: 140px;
+  font-size: 4.5rem;
  }
  .contact-info{
-  margin-top: 60px;
-  font-size: 4rem;
+  margin-top: 30px;
+  font-size: 2rem;
  }
  .message{
-  margin-top: 80px;
-  font-size: 3.5rem;
+  margin-top: 40px;
+  font-size: 1.7rem;
  }
